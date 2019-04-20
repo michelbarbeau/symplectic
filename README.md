@@ -1,4 +1,4 @@
-# symplectic
+# Symplectic
 Generation of Members of the Symplectic Group Sp(2n) in MATLAB
 
 Author: Michel Barbeau, Carleton University
