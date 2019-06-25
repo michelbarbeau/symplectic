@@ -3,7 +3,7 @@ Generation of Members of the Symplectic Group Sp(2n) in MATLAB
 
 Author: Michel Barbeau, Carleton University
 
-Version: April 19, 2019
+Version: june 24, 2019
 
 # Publications
 
